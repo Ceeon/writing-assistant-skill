@@ -18,7 +18,6 @@ description: 自媒体写作交互式助手。帮助完成从选题到发布的�
 |------|------|
 | `about-me.md` | 定位、双品牌、5个主题池、禁区、术语降维 |
 | `user-personas.md` | 3类目标用户、4层需求、触达策略 |
-| `content/core-strategy/` | 小白战略、爆款战略 |
 | `content/methods/01-05` | 选题→大纲→正文→标题→排版 |
 
 ---
